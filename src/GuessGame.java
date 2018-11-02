@@ -1,6 +1,6 @@
 /**
- * @author liyuchen
- * @create 2018-11-01
+ * @ author liyuchen
+ * @ create 2018-11-01
  **/
 public class GuessGame {
 //    three player instance;
